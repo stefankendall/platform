@@ -1,0 +1,15 @@
+images {
+  image: "/assets/images/background.png"
+}
+images {
+  image: "/assets/images/logo.png"
+}
+images {
+  image: "/builtins/graphics/particle_blob.png"
+}
+images {
+  image: "/assets/images/colored_land.png"
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

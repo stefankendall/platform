@@ -1,0 +1,172 @@
+images {
+  image: "/components/player/assets/images/sprite_0.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_1.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_10.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_11.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_12.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_13.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_14.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_16.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_17.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_18.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_2.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_20.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_21.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_22.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_24.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_25.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_26.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_27.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_28.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_29.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_3.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_30.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_32.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_33.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_34.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_35.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_36.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_37.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_38.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_40.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_41.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_42.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_43.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_44.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_45.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_46.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_48.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_49.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_5.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_50.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_51.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_52.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_53.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_54.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_57.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_58.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_6.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_60.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_61.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_8.png"
+}
+images {
+  image: "/components/player/assets/images/sprite_9.png"
+}
+images {
+  image: "/components/player/assets/images/right_1.png"
+}
+animations {
+  id: "climb"
+  images {
+    image: "/components/player/assets/images/sprite_4.png"
+  }
+  images {
+    image: "/components/player/assets/images/sprite_59.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 4
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

@@ -1,0 +1,6 @@
+local deftest = require "deftest.deftest"
+
+function init(self)
+	deftest.add(require("lib.math.round_spec"))
+	deftest.run()
+end
